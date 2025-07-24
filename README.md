@@ -1,4 +1,4 @@
-# 🚀 FAISS-Powered Bengali PDF Chat
+# 🚀 Ai Rag Chat Specially Made For Bangla PDF
 
 ## 📖 Table of Contents
 - [Project Overview](#project-overview)
