@@ -93,9 +93,6 @@ bengali-pdf-chat/
 │   └── config.py               # Azure OpenAI configuration
 ├── conversation/
 │   └── conversation_chain.py   # ConversationalRetrievalChain setup
-├── evaluation/
-│   ├── __init__.py
-│   └── evaluation.py          # Groundedness and relevance metrics
 ├── pdf_processing/
 │   ├── extraction.py          # Text and OCR extraction
 │   └── chunking.py            # Text chunking
