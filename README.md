@@ -124,16 +124,13 @@ Below are placeholder images demonstrating the Streamlit UI (to be replaced with
 |----------------------|---------------------|-----------------------|
 | ![Upload Interface](https://github.com/Elaf24/academic-rag-ai/blob/main/ScreenShot%20Of%20Answer/eng1.png?raw=true) | ![Query Interface](https://github.com/Elaf24/academic-rag-ai/blob/main/ScreenShot%20Of%20Answer/2.png?raw=true) | ![Source References](https://github.com/Elaf24/academic-rag-ai/blob/main/ScreenShot%20Of%20Answer/eng3.png?raw=true) |
 
-- **Upload Interface**: Shows the sidebar for uploading PDFs and selecting processing options.
-- **Query Interface**: Displays the input field for asking questions (e.g., "What is Anupam’s father’s occupation?").
-- **Source References**: Shows retrieved document chunks for the query.
-- **Evaluation Metrics**: Displays groundedness and relevance scores.
+
 
 ## 🎥 Video Demo
 A video walkthrough is available to demonstrate the project in action.  
 [Watch the Video Demo](https://via.placeholder.com/video.mp4)  
-*Note*: Replace the placeholder link with an actual video hosted on YouTube, Vimeo, or a similar platform.
+
 
 ---
 
-**Built with ❤️ for Bengali language processing!**
+
