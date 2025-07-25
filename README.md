@@ -1,13 +1,13 @@
 # 🚀 Ai Rag Chat Specially Made For Bangla+Banglish+English PDF 
 
 ## 📖 Table of Contents
-- [Project Overview](#project-overview)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Project Structure](#project-structure)
-- [Q&A of 10-Minute School](#qa-of-10-minute-school)
-- [Screenshot Demo](#screenshot-demo)
-- [Video Demo](#video-demo)
+- [Project Overview](#-project-overview)
+- [Installation](#-installation)
+- [Configuration](#-configuration)
+- [Project Structure](#-project-structure)
+- [Q&A of 10-Minute School](#-qa-of-10-minute-school)
+- [Screenshot Demo](#-screenshot-demo)
+- [Video Demo](#-video-demo)
 
 ## 🌍 Project Overview
 A Retrieval-Augmented Generation (RAG) system for querying Bengali PDFs (e.g., "HSC26-Bangla1st-Paper-1-9.pdf" containing "অপরিচিতা"). Upload documents, ask questions, and get answers with source references and evaluation metrics (groundedness, relevance) via a Streamlit UI. Powered by LangChain, FAISS, and Azure OpenAI.
@@ -132,5 +132,3 @@ A video walkthrough is available to demonstrate the project in action.
 
 
 ---
-
-
