@@ -109,7 +109,7 @@ bengali-pdf-chat/
 └── faiss_index/               # FAISS index storage
 ```
 
-## ❓ Q&A of 10-Minute School  
+## ❓ Q&A of 10-Minute School  (click the link there is a document that answer all the questions)
  [https://docs.google.com/document/Elaf](https://docs.google.com/document/d/1WuJM-wnj_5OqrW4EPxyfJwdOUJsKy7P426LvOEbnKfU/edit?usp=sharing)
 
 
