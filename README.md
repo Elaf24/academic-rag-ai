@@ -118,7 +118,7 @@ Below are placeholder images demonstrating the Streamlit UI (to be replaced with
 
 | **Upload Interface** | **Query Interface** | **Source References** | **Evaluation Metrics** |
 |----------------------|---------------------|-----------------------|-----------------------|
-| ![Upload Interface](https://via.placeholder.com/600x400.png?text=Upload+Interface) | ![Query Interface](https://via.placeholder.com/600x400.png?text=Query+Interface) | ![Source References](https://via.placeholder.com/600x400.png?text=Source+References) | ![Evaluation Metrics](https://via.placeholder.com/600x400.png?text=Evaluation+Metrics) |
+| ![Upload Interface](https://github.com/Elaf24/academic-rag-ai/blob/main/1.png?raw=true) | ![Query Interface](https://via.placeholder.com/600x400.png?text=Query+Interface) | ![Source References](https://via.placeholder.com/600x400.png?text=Source+References) | ![Evaluation Metrics](https://via.placeholder.com/600x400.png?text=Evaluation+Metrics) |
 
 - **Upload Interface**: Shows the sidebar for uploading PDFs and selecting processing options.
 - **Query Interface**: Displays the input field for asking questions (e.g., "What is Anupam’s father’s occupation?").
