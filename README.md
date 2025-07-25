@@ -118,7 +118,7 @@ Below are placeholder images demonstrating the Streamlit UI (to be replaced with
 
 | **Bangla Query** | **Query Interface** | **Source References** |
 |----------------------|---------------------|-----------------------|
-| ![Upload Interface](https://github.com/Elaf24/academic-rag-ai/blob/main/ScreenShot%20Of%20Answer/1.png?raw=true) | ![Query Interface](https://github.com/Elaf24/academic-rag-ai/blob/main/2.png?raw=true) | ![Source References](https://via.placeholder.com/600x400.png?text=Source+References) |
+| ![Upload Interface](https://github.com/Elaf24/academic-rag-ai/blob/main/ScreenShot%20Of%20Answer/1.png?raw=true) | ![Query Interface](https://github.com/Elaf24/academic-rag-ai/blob/main/ScreenShot%20Of%20Answer/2.png?raw=true) | ![Source References](https://github.com/Elaf24/academic-rag-ai/blob/main/ScreenShot%20Of%20Answer/3.png?raw=true) |
 
 - **Upload Interface**: Shows the sidebar for uploading PDFs and selecting processing options.
 - **Query Interface**: Displays the input field for asking questions (e.g., "What is Anupam’s father’s occupation?").
