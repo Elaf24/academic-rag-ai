@@ -114,7 +114,7 @@ bengali-pdf-chat/
 
 
 ## 📸 Screenshot Demo (click on the images or for higher quality check the Screen shot of Answers Folder in the Repo)
-Below are placeholder images demonstrating the Streamlit UI (to be replaced with actual screenshots, sized equally at 600x400 pixels for consistency):
+
 
 | **Bangla Query** | **Bangla Query** | **Bangla Query** |
 |----------------------|---------------------|-----------------------|
