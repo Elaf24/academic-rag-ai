@@ -113,12 +113,16 @@ bengali-pdf-chat/
 > [https://docs.google.com/document/Elaf](https://docs.google.com/document/d/1WuJM-wnj_5OqrW4EPxyfJwdOUJsKy7P426LvOEbnKfU/edit?usp=sharing)
 
 
-## 📸 Screenshot Demo
+## 📸 Screenshot Demo (click on the images or for higher quality check the Screen shot of Answers Folder in the Repo)
 Below are placeholder images demonstrating the Streamlit UI (to be replaced with actual screenshots, sized equally at 600x400 pixels for consistency):
 
-| **Bangla Query** | **Query Interface** | **Source References** |
+| **Bangla Query** | **Bangla Query** | **Bangla Query** |
 |----------------------|---------------------|-----------------------|
 | ![Upload Interface](https://github.com/Elaf24/academic-rag-ai/blob/main/ScreenShot%20Of%20Answer/1.png?raw=true) | ![Query Interface](https://github.com/Elaf24/academic-rag-ai/blob/main/ScreenShot%20Of%20Answer/2.png?raw=true) | ![Source References](https://github.com/Elaf24/academic-rag-ai/blob/main/ScreenShot%20Of%20Answer/3.png?raw=true) |
+
+| **English Query** | **English Quer** | **English Quer** |
+|----------------------|---------------------|-----------------------|
+| ![Upload Interface](https://github.com/Elaf24/academic-rag-ai/blob/main/ScreenShot%20Of%20Answer/eng1.png?raw=true) | ![Query Interface](https://github.com/Elaf24/academic-rag-ai/blob/main/ScreenShot%20Of%20Answer/2.png?raw=true) | ![Source References](https://github.com/Elaf24/academic-rag-ai/blob/main/ScreenShot%20Of%20Answer/eng3.png?raw=true) |
 
 - **Upload Interface**: Shows the sidebar for uploading PDFs and selecting processing options.
 - **Query Interface**: Displays the input field for asking questions (e.g., "What is Anupam’s father’s occupation?").
