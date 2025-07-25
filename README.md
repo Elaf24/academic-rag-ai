@@ -116,9 +116,9 @@ bengali-pdf-chat/
 ## 📸 Screenshot Demo
 Below are placeholder images demonstrating the Streamlit UI (to be replaced with actual screenshots, sized equally at 600x400 pixels for consistency):
 
-| **Upload Interface** | **Query Interface** | **Source References** | **Evaluation Metrics** |
-|----------------------|---------------------|-----------------------|-----------------------|
-| ![Upload Interface](https://github.com/Elaf24/academic-rag-ai/blob/main/1.png?raw=true) | ![Query Interface](https://github.com/Elaf24/academic-rag-ai/blob/main/2.png?raw=true) | ![Source References](https://via.placeholder.com/600x400.png?text=Source+References) | ![Evaluation Metrics](https://via.placeholder.com/600x400.png?text=Evaluation+Metrics) |
+| **Bangla Query** | **Query Interface** | **Source References** |
+|----------------------|---------------------|-----------------------|
+| ![Upload Interface](https://github.com/Elaf24/academic-rag-ai/blob/main/1.png?raw=true) | ![Query Interface](https://github.com/Elaf24/academic-rag-ai/blob/main/2.png?raw=true) | ![Source References](https://via.placeholder.com/600x400.png?text=Source+References) |
 
 - **Upload Interface**: Shows the sidebar for uploading PDFs and selecting processing options.
 - **Query Interface**: Displays the input field for asking questions (e.g., "What is Anupam’s father’s occupation?").
