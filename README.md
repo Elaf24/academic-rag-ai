@@ -1,4 +1,4 @@
-# 🚀 Ai Rag Chat Specially Made For Bangla PDF
+# 🚀 Ai Rag Chat Specially Made For Bangla+Banglish+English PDF 
 
 ## 📖 Table of Contents
 - [Project Overview](#project-overview)
@@ -93,9 +93,6 @@ bengali-pdf-chat/
 │   └── config.py               # Azure OpenAI configuration
 ├── conversation/
 │   └── conversation_chain.py   # ConversationalRetrievalChain setup
-├── evaluation/
-│   ├── __init__.py
-│   └── evaluation.py          # Groundedness and relevance metrics
 ├── pdf_processing/
 │   ├── extraction.py          # Text and OCR extraction
 │   └── chunking.py            # Text chunking
@@ -112,45 +109,16 @@ bengali-pdf-chat/
 └── faiss_index/               # FAISS index storage
 ```
 
-## ❓ Q&A of 10-Minute School
-This section provides a quick guide inspired by 10-Minute School’s concise Q&A format, explaining the project’s core functionality for Bengali PDF querying. Answers are highlighted with different background colors for clarity.
+> ## ❓ Q&A of 10-Minute School  
+> [https://docs.google.com/document/Elaf](https://docs.google.com/document/d/1WuJM-wnj_5OqrW4EPxyfJwdOUJsKy7P426LvOEbnKfU/edit?usp=sharing)
 
-- **Q: What does this project do?**  
-  <div style="background-color: #e6f3ff; padding: 10px; border-radius: 5px;">  
-  A: It lets you upload Bengali PDFs, ask questions (e.g., "What is Anupam’s father’s occupation in অপরিচিতা?"), and get answers with source references and evaluation metrics (groundedness, relevance) using a Streamlit interface.  
-  </div>
-
-- **Q: How does it process PDFs?**  
-  <div style="background-color: #e6ffe6; padding: 10px; border-radius: 5px;">  
-  A: It extracts text using PyMuPDF for text-based PDFs or Tesseract OCR for image-based PDFs, chunks the text into 1000-character segments with 150-character overlap, and indexes them in a FAISS vector store.  
-  </div>
-
-- **Q: How are answers generated?**  
-  <div style="background-color: #fff7e6; padding: 10px; border-radius: 5px;">  
-  A: The system uses LangChain’s `ConversationalRetrievalChain` with Azure OpenAI’s chat model (e.g., `gpt-3.5-turbo`) to generate answers based on retrieved document chunks.  
-  </div>
-
-- **Q: What are the evaluation metrics?**  
-  <div style="background-color: #ffe6e6; padding: 10px; border-radius: 5px;">  
-  A: Groundedness (trigram overlap between answer and chunks) and relevance (cosine similarity between query and chunks) measure answer quality and chunk accuracy.  
-  </div>
-
-- **Q: Why are retrieved chunks sometimes incorrect?**  
-  <div style="background-color: #f0e6ff; padding: 10px; border-radius: 5px;">  
-  A: Large chunks or retriever caching may cause irrelevant retrieval. Use `chunk_size=1000`, `search_type="similarity"`, and reinitialize the retriever per query to fix this.  
-  </div>
-
-- **Q: How do I check if it’s working?**  
-  <div style="background-color: #e6fff0; padding: 10px; border-radius: 5px;">  
-  A: Upload a PDF, ask a specific question, and verify that "Source References" shows relevant chunks and "RAG Evaluation Results" displays non-zero metrics.  
-  </div>
 
 ## 📸 Screenshot Demo
 Below are placeholder images demonstrating the Streamlit UI (to be replaced with actual screenshots, sized equally at 600x400 pixels for consistency):
 
-| **Upload Interface** | **Query Interface** | **Source References** | **Evaluation Metrics** |
-|----------------------|---------------------|-----------------------|-----------------------|
-| ![Upload Interface](https://via.placeholder.com/600x400.png?text=Upload+Interface) | ![Query Interface](https://via.placeholder.com/600x400.png?text=Query+Interface) | ![Source References](https://via.placeholder.com/600x400.png?text=Source+References) | ![Evaluation Metrics](https://via.placeholder.com/600x400.png?text=Evaluation+Metrics) |
+| **Bangla Query** | **Query Interface** | **Source References** |
+|----------------------|---------------------|-----------------------|
+| ![Upload Interface](https://github.com/Elaf24/academic-rag-ai/blob/main/1.png?raw=true) | ![Query Interface](https://github.com/Elaf24/academic-rag-ai/blob/main/2.png?raw=true) | ![Source References](https://via.placeholder.com/600x400.png?text=Source+References) |
 
 - **Upload Interface**: Shows the sidebar for uploading PDFs and selecting processing options.
 - **Query Interface**: Displays the input field for asking questions (e.g., "What is Anupam’s father’s occupation?").
