@@ -1,4 +1,4 @@
-# 🚀 Ai Rag Chat Specially Made For Bangla PDF
+# 🚀 Ai Rag Chat Specially Made For Bangla+Banglish+English PDF 
 
 ## 📖 Table of Contents
 - [Project Overview](#project-overview)
