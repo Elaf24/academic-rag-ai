@@ -128,7 +128,7 @@ Below are placeholder images demonstrating the Streamlit UI (to be replaced with
 
 ## 🎥 Video Demo
 A video walkthrough is available to demonstrate the project in action.  
-[Watch the Video Demo](https://via.placeholder.com/video.mp4)  
+[Watch the Video Demo](https://www.youtube.com/watch?v=XP5fgTzkeos)  
 
 
 ---
