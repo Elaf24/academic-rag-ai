@@ -10,7 +10,7 @@
 - [Video Demo](#-video-demo)
 
 ## 🌍 Project Overview
-A Retrieval-Augmented Generation (RAG) system for querying Bengali PDFs (e.g., "HSC26-Bangla1st-Paper-1-9.pdf" containing "অপরিচিতা"). Upload documents, ask questions, and get answers with source references and evaluation metrics (groundedness, relevance) via a Streamlit UI. Powered by LangChain, FAISS, and Azure OpenAI.
+A Retrieval-Augmented Generation (RAG) system for querying Bengali PDFs (e.g., "HSC26-Bangla1st-Paper-1-9.pdf" containing "অপরিচিতা"). Upload documents, ask questions, and get answers with source references  via a Streamlit UI. Powered by LangChain, FAISS, and Azure OpenAI.
 
 ## 📦 Installation
 1. **Clone the Repository**:
